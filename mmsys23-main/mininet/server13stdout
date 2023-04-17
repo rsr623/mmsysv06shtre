@@ -1,0 +1,6 @@
+Json file :/home/mininet/mmsys23lib-dev-xzc/mininet/config/upnode_mn13.json
+{
+    "IP": "10.100.2.13",
+    "port": 41111,
+    "selfpeerID": "0001020304050607080910111213141516171809"
+}
